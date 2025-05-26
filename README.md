@@ -1,7 +1,7 @@
 
 # Trabalho Prático - Semana 12
 
-Nesta atividade, você irá completar o projeto anterior permitindo cadastrar e alterar dados da entidade principal do do seu projeto a partir da estrutura criada na etapa anterior com o JSONServer. Para isso, crie uma **página de cadastro (cadastro_[ENTIDADE].html)**, que deve mostrar um formulário para cadastrar a entidade principal do projeto. OBS: Troque [ENTIDADE] pelo nome da sua entidade principal.
+Nesta atividade, você irá completar o projeto anterior permitindo cadastrar e alterar dados da entidade principal do do seu projeto a partir da estrutura criada na etapa anterior com o JSONServer. Para isso, crie uma **página de cadastro (cadastro_[filmes].html)**, que deve mostrar um formulário para cadastrar a entidade principal do projeto. OBS: Troque [ENTIDADE] pelo nome da sua entidade principal.
 
 ## Informações do trabalho
 
@@ -13,12 +13,16 @@ Nesta atividade, você irá completar o projeto anterior permitindo cadastrar e 
 **Print do testes da API com Postman ou similar**
 
 <<  COLOQUE A IMAGEM GET AQUI >>
+<img src=![alt text](<Prints/metodoget.jpeg>)>
 
 <<  COLOQUE A IMAGEM POST AQUI >>
+<img src=![alt text](<Prints/metodopost.jpeg>)>
 
 <<  COLOQUE A IMAGEM PUT AQUI >>
+<img src=![alt text](<Prints/metodoput.jpeg>)>
 
 <<  COLOQUE A IMAGEM DELETE AQUI >>
+<img src=![alt text](<Prints/metododelete.jpeg>)>
 
 **Print da aba NETWORK com requisições Fetch/XHR de POST**
 
