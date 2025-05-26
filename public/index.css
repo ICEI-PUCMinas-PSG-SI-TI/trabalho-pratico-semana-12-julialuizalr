@@ -1,0 +1,42 @@
+body {
+    background-color: blueviolet;
+}
+text{
+    color: aliceblue;
+}
+
+.menu{ color: rgb(161, 132, 179);
+
+}
+#cor{
+    background-color: rgb(30, 3, 48);
+}
+header{
+    background-color: rgb(6, 0, 19);
+}
+footer{
+    background-color: rgb(6, 0, 19);
+    color:beige;
+}
+#login{
+    background-color:  rgb(30, 3, 48);
+    color:beige;
+}
+#pesquisar{
+    background-color: rgb(6, 0, 19);
+    color:beige;
+}
+#filmesporgenero{
+    background-color: rgb(6, 0, 19);
+    color:beige;
+}
+#trailer{
+    background-color: rgb(6, 0, 19);
+    color:beige;
+}
+.aluna{
+    background-color: rgb(30, 3, 48) ;
+}
+nav{
+    background-color: rgb(6, 0, 19);
+}
