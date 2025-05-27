@@ -5,9 +5,9 @@ Nesta atividade, você irá completar o projeto anterior permitindo cadastrar e 
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
+- Nome: Júlia Luíza Lopes Ribeiro
+- Matricula: 882378
+- Proposta de projeto escolhida: site de filmes
 - Breve descrição sobre seu projeto:
 
 **Print do testes da API com Postman ou similar**
